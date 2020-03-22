@@ -1,9 +1,9 @@
 # Loya Altangerel
 Software Development Engineer | Solutions Architect | DevOps/SRE
-## SKILLS
+## :white_check_mark: SKILLS
 8+ years of professional software development experience: System design, development, problem solving, automation, distributed systems, monitoring, troubleshooting, testing, reliability, security, cost optimization, performance efficiency, operational excellence, capacity planning, fleet management, serverless application
 
-## WORK EXPERIENCE
+## :man_technologist: WORK EXPERIENCE
 
 ### Amazon
 #### DevOps Engineer/SRE (Jul 2017 - present)
@@ -26,8 +26,8 @@ Software Development Engineer | Solutions Architect | DevOps/SRE
 ### Interactive LLC
 #### Software Development Engineer (Jan 2011 - Sep 2012)
 - Created a web based national citizen registration system which makes a public service efficient by providing real-time data to government organizations and customized reports to desired formats and outputs. Minimized repetitive procedures, eliminated manual registration data by 60%. Used in very first online Mongolian parliament election and still in use as of 2020.
-
-## EDUCATION
+ 
+## :man_student: EDUCATION 
 
 - **Master of Science in Computer Science**
   - Maharishi University of Management, Iowa, USA - 2018
