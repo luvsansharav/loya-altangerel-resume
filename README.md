@@ -1,5 +1,5 @@
 # Loya Altangerel
-Interested in solving world-class optimization. Available as Software Development Engineer, Solutions Architect and DevOps/SRE.
+Interested in solving world-class optimization. Available as Software Development Engineer, Solutions Architect and DevOps/SRE. Open to relocate OR work as remote.
 
 * [CONTACT](#CONTACT)
 * [SKILLS](#SKILLS)
