@@ -5,3 +5,10 @@ Software Development Engineer ● Solutions Architect ● DevOps/SRE
 
 ## Amazon
 ### DevOps Engineer/SRE
+Worked with 5 different software development teams focusing on operational excellence and improved their processes and procedures by at least 20% YoY. Created and developed 8+ automation tools and web portals to reduce operations overhead.
+
+Built a serverless real-time safety application using AWS services (DynamoDB, SQS, SNS, S3, Lambda, API Gateway, IoT Core) in backend and ReactJS for UI. Enabled it on 200+ warehouses in NA, EU and IN regions and handling over ~300k transactions per day.
+
+Created a python script to automate the manual process of managing rules for trouble ticketing system and modified 4000+ rules in a few minutes.
+
+Developed a configuration auditor service using Java and Spring MVC based technologies and used in 2 different organizations within Amazon.
