@@ -16,5 +16,20 @@ Created a python script to automate the manual process of managing rules for tro
 Developed a configuration auditor service using Java and Spring MVC based technologies and used in 2 different organizations within Amazon.
 
 ### Infosys
-#### Vendor Consultant - Tech Lead
+#### Vendor Consultant / Tech Lead
 Re-architected integration service for secure enterprise data exchange across 4000+ internal and external clients and processed thousands of files per minute. Completed the workshop with 200+ clients to onboard the new service and setup their configurations. Used TCP/IP, Linux file systems, disk/storage, globalscape, and IBM sterling.
+
+### The Central Bank of Mongolia
+#### Software Development Engineer
+Created a web application for treasury auctions with several types of bonds. These bonds are bought by primary government bond dealers, investment funds, individual investors and official banks. Improved efficiency and time-consumption by 90%. The system is still in use and issued approximately USD 10+ billion in bonds as of 2016. Used Java, Oracle ADF, JSF, Oracle Weblogic Server and Linux.
+
+### Interactive LLC
+#### Software Development Engineer
+Created a web based national citizen registration system which makes a public service efficient by providing real-time data to government organizations and customized reports to desired formats and outputs. Minimized repetitive procedures, eliminated manual registration data by 60%. Used in very first online Mongolian parliament election and still in use as of 2020.
+
+## EDUCATION
+
+**Master of Science in Computer Science – 2018**
+Maharishi University of Management, IA, USA
+**Bachelor of Computer Science in Software Engineering – 2011**
+Mongolian University of Science and Technology, Ulaanbaatar, Mongolia
