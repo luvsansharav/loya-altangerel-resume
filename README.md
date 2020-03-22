@@ -1,12 +1,15 @@
-# Table of contents
-* [Overview](#Loya-Altangerel)
+# Loya Altangerel
+Software Development Engineer | Solutions Architect | DevOps/SRE
+
+* [CONTACT](#CONTACT)
 * [SKILLS](#SKILLS)
 * [WORK EXPERIENCE](#man_technologist-WORK-EXPERIENCE)
 * [EDUCATION](#man_student-EDUCATION)
 
-# Loya Altangerel
-Software Development Engineer | Solutions Architect | DevOps/SRE
-[+1 919 244 7825](tel:+19192447825)
+## CONTACT
+- [+1 919 244 7825](tel:+19192447825)
+- [luvsansharav.a@gmail.com](luvsansharav.a@gmail.com)
+- [linkedin.com/in/luvsansharav](linkedin.com/in/luvsansharav)
 
 ## SKILLS
 8+ years of professional software development experience: System design, development, problem solving, automation, distributed systems, monitoring, troubleshooting, testing, reliability, security, cost optimization, performance efficiency, operational excellence, capacity planning, fleet management, serverless application
