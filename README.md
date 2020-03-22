@@ -1,0 +1,1 @@
+# loya-altangerel-resume
