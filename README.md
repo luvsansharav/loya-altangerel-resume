@@ -31,5 +31,6 @@ Created a web based national citizen registration system which makes a public se
 
 **Master of Science in Computer Science – 2018**
 Maharishi University of Management, IA, USA
+
 **Bachelor of Computer Science in Software Engineering – 2011**
 Mongolian University of Science and Technology, Ulaanbaatar, Mongolia
