@@ -29,8 +29,8 @@ Software Development Engineer | Solutions Architect | DevOps/SRE
 
 ## EDUCATION
 
-- **Master of Science in Computer Science**
-  - Maharishi University of Management, IA, USA - 2018
+- **Master of Science in Computer Science - 2018**
+  - Maharishi University of Management, IA, USA
 
-- **Bachelor of Computer Science in Software Engineering**
+- **Bachelor of Computer Science in Software Engineering - 2011**
   - Mongolian University of Science and Technology, UB, Mongolia - 2011
