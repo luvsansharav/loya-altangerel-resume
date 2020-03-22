@@ -1,5 +1,5 @@
 # Loya Altangerel
-Software Development Engineer | Solutions Architect | DevOps/SRE
+Interested in solving world-class optimization. Available as Software Development Engineer, Solutions Architect and DevOps/SRE.
 
 * [CONTACT](#CONTACT)
 * [SKILLS](#SKILLS)
