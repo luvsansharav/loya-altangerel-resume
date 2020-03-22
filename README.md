@@ -2,7 +2,7 @@
 Software Development Engineer | Solutions Architect | DevOps/SRE
 
 * [SKILLS](#SKILLS)
-* [WORK EXPERIENCE](#:man_technologist:-WORK-EXPERIENCE)
+* [WORK EXPERIENCE](#man_technologist-WORK-EXPERIENCE)
 * [EDUCATION](#:man_student:-EDUCATION)
 
 ## SKILLS
