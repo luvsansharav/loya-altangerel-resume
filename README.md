@@ -6,7 +6,7 @@ Software Development Engineer | Solutions Architect | DevOps/SRE
 ## WORK EXPERIENCE
 
 ### Amazon
-#### DevOps Engineer/SRE
+#### DevOps Engineer/SRE (Jul 2017 - present)
 - Worked with 5 different software development teams focusing on operational excellence and improved their processes and procedures by at least 20% YoY. Created and developed 8+ automation tools and web portals to reduce operations overhead.
 
 - Built a serverless real-time safety application using AWS services (DynamoDB, SQS, SNS, S3, Lambda, API Gateway, IoT Core) in backend and ReactJS for UI. Enabled it on 200+ warehouses in NA, EU and IN regions and handling over ~300k transactions per day.
@@ -16,21 +16,21 @@ Software Development Engineer | Solutions Architect | DevOps/SRE
 - Developed a configuration auditor service using Java and Spring MVC based technologies and used in 2 different organizations within Amazon.
 
 ### Infosys
-#### Vendor Consultant / Tech Lead
+#### Vendor Consultant / Tech Lead (Sep 2015 - Jul 2017)
 - Re-architected integration service for secure enterprise data exchange across 4000+ internal and external clients and processed thousands of files per minute. Completed the workshop with 200+ clients to onboard the new service and setup their configurations. Used TCP/IP, Linux file systems, disk/storage, globalscape, and IBM sterling.
 
 ### The Central Bank of Mongolia
-#### Software Development Engineer
+#### Software Development Engineer (Sep 2012 - Oct 2014)
 - Created a web application for treasury auctions with several types of bonds. These bonds are bought by primary government bond dealers, investment funds, individual investors and official banks. Improved efficiency and time-consumption by 90%. The system is still in use and issued approximately USD 10+ billion in bonds as of 2016. Used Java, Oracle ADF, JSF, Oracle Weblogic Server and Linux.
 
 ### Interactive LLC
-#### Software Development Engineer
+#### Software Development Engineer (Jan 2011 - Sep 2012)
 - Created a web based national citizen registration system which makes a public service efficient by providing real-time data to government organizations and customized reports to desired formats and outputs. Minimized repetitive procedures, eliminated manual registration data by 60%. Used in very first online Mongolian parliament election and still in use as of 2020.
 
 ## EDUCATION
 
-- **Master of Science in Computer Science - 2018**
-  - Maharishi University of Management, IA, USA
+- **Master of Science in Computer Science**
+  - Maharishi University of Management, Iowa, USA - 2018
 
-- **Bachelor of Computer Science in Software Engineering - 2011**
-  - Mongolian University of Science and Technology, UB, Mongolia - 2011
+- **Bachelor of Computer Science in Software Engineering**
+  - Mongolian University of Science and Technology, Ulaanbaatar, Mongolia - 2011
