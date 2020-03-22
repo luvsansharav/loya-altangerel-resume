@@ -8,7 +8,7 @@ Software Development Engineer | Solutions Architect | DevOps/SRE
 
 ## CONTACT
 - [+1 919 244 7825](tel:+19192447825)
-- [luvsansharav.a@gmail.com](luvsansharav.a@gmail.com)
+- <luvsansharav.a@gmail.com>
 - [linkedin.com/in/luvsansharav](linkedin.com/in/luvsansharav)
 
 ## SKILLS
