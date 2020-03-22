@@ -1,11 +1,11 @@
 # Loya Altangerel
 Software Development Engineer | Solutions Architect | DevOps/SRE
-## :white_check_mark: SKILLS
+## SKILLS
 8+ years of professional software development experience: System design, development, problem solving, automation, distributed systems, monitoring, troubleshooting, testing, reliability, security, cost optimization, performance efficiency, operational excellence, capacity planning, fleet management, serverless application
 
 ## :man_technologist: WORK EXPERIENCE
 
-### Amazon
+### [Amazon](https://www.amazon.com/)
 #### DevOps Engineer/SRE (Jul 2017 - present)
 - Worked with 5 different software development teams focusing on operational excellence and improved their processes and procedures by at least 20% YoY. Created and developed 8+ automation tools and web portals to reduce operations overhead.
 
@@ -15,15 +15,15 @@ Software Development Engineer | Solutions Architect | DevOps/SRE
 
 - Developed a configuration auditor service using Java and Spring MVC based technologies and used in 2 different organizations within Amazon.
 
-### Infosys
+### [Infosys](https://www.infosys.com/)
 #### Vendor Consultant / Tech Lead (Sep 2015 - Jul 2017)
 - Re-architected integration service for secure enterprise data exchange across 4000+ internal and external clients and processed thousands of files per minute. Completed the workshop with 200+ clients to onboard the new service and setup their configurations. Used TCP/IP, Linux file systems, disk/storage, globalscape, and IBM sterling.
 
-### The Central Bank of Mongolia
+### [The Central Bank of Mongolia](https://www.mongolbank.mn/eng/default.aspx)
 #### Software Development Engineer (Sep 2012 - Oct 2014)
 - Created a web application for treasury auctions with several types of bonds. These bonds are bought by primary government bond dealers, investment funds, individual investors and official banks. Improved efficiency and time-consumption by 90%. The system is still in use and issued approximately USD 10+ billion in bonds as of 2016. Used Java, Oracle ADF, JSF, Oracle Weblogic Server and Linux.
 
-### Interactive LLC
+### [Interactive LLC](http://www.interactive.mn/)
 #### Software Development Engineer (Jan 2011 - Sep 2012)
 - Created a web based national citizen registration system which makes a public service efficient by providing real-time data to government organizations and customized reports to desired formats and outputs. Minimized repetitive procedures, eliminated manual registration data by 60%. Used in very first online Mongolian parliament election and still in use as of 2020.
  
